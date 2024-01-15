@@ -1,0 +1,10 @@
+ h1{ color:rosybrown;background-color: aliceblue;border:3px solid powderblue;
+font-style: oblique;padding:50px;text-transform:uppercase;}
+h2{color:goldenrod;background-color:beige; border:2px solid gray;}
+p{color:darkgreen}
+body{ background-color:bisque}
+img {border: 5px solid brown;
+margin-left:200px}
+#highlight{color:lightskyblue;background-color:beige;border:3px solid lightgray; }
+.top{background-color:lightskyblue;}
+mark{ background-color:lightpink;}
